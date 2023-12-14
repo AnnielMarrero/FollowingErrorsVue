@@ -1,4 +1,4 @@
-# Facebook (quasar-project)
+# Following errors (quasar-project)
 
 A Quasar Project
 
@@ -41,3 +41,6 @@ quasar build
 ### Customize the configuration
 
 See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-vite/quasar-config-js).
+
+### A view of the app
+![Screenshot](view-app.png)
